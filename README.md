@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+<div align="center">
+    <img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+</div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iridescentas&theme=dark&hide_border=true" />
 </div>
