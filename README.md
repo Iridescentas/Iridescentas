@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iridescentas&theme=dark&hide_border=true" />
