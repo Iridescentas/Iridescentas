@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iridescentas&theme=dark&hide_border=true" />
 </div>
-<div align="center">
-    <img src="https://metrics.lecoq.io/Iridescentas?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
